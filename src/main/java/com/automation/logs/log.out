@@ -1,0 +1,522 @@
+2022-05-15 19:05:21 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:802 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:194 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:682 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:741 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:445 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:87 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 19:05:824 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:181 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:546 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7cd1adbb247d8d533a9ab78e1cfab58a)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:979 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (7cd1adbb247d8d533a9ab78e1cfab58a)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 20:05:733 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:482 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (3456c1977103e57dca3f8ad6bb468912)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:325 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login : to email address field
+2022-05-15 20:05:388 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 20:05:465 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (3456c1977103e57dca3f8ad6bb468912)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:488 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (3456c1977103e57dca3f8ad6bb468912)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 20:05:163 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:423 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (730f582cae23b9b3b51a3c242216933c)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:40 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 20:05:114 INFO  SignInPage :62 - enter the 'PASSWORD' for login : to password address field
+2022-05-15 20:05:178 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (730f582cae23b9b3b51a3c242216933c)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:671 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (730f582cae23b9b3b51a3c242216933c)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 20:05:368 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:856 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (51f7a464a6be1efe61191cbd8b9893a6)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:713 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :adfdfgfg to email address field
+2022-05-15 20:05:789 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 20:05:859 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (51f7a464a6be1efe61191cbd8b9893a6)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:458 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (51f7a464a6be1efe61191cbd8b9893a6)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 20:05:130 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:394 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (4de1251ac94cf322381ecaf0eb0e50b8)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:820 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 20:05:892 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 20:05:967 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (4de1251ac94cf322381ecaf0eb0e50b8)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:769 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (4de1251ac94cf322381ecaf0eb0e50b8)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 20:05:451 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:534 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (86090c58110cd46891466b5421982961)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:650 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 20:05:720 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 20:05:792 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (86090c58110cd46891466b5421982961)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:937 INFO  SignInPage :98 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (86090c58110cd46891466b5421982961)] -> xpath: //div[@class="header_user_info"]//a[contains(text(),'Sign out')]]
+2022-05-15 20:05:642 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:924 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (737f0806d41de9f15aa37135c886cb4b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:657 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 20:05:724 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 20:05:801 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (737f0806d41de9f15aa37135c886cb4b)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 20:05:350 INFO  HomePage :49 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (737f0806d41de9f15aa37135c886cb4b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:296 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 20:05:55 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (c3f339361a021ea94e6805ab20647e69)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 20:05:349 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : Kr5shena@gmail.com to email address field
+2022-05-15 20:05:450 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (c3f339361a021ea94e6805ab20647e69)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 21:05:421 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:790 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (d31ed6e2e506b5e9f380d2b599c08601)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:839 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:528 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (adb6809f766d99bcd62e21da05d669b9)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:44 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:464 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (dc8765c84c1293a16ccc2d41f9618406)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:992 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:689 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (39aeedd7ef9d1541934eb1ede8bf1a25)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:252 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:619 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (566caf294e98f20a4154a8236c1e0bab)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:269 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:887 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (2b06ec271f9c4029c6d1e3629a7d7b7e)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:361 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:762 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (3e79607b472de817e6b1eaf0a94473cd)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:689 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:936 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (74aaba7fbc47e4edad45166e76950ef6)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:936 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:580 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (3484a148d8c1d9cd0f70f091b8365711)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:183 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:501 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (132eb80c37b9d15a3c1b08787ac7cc0e)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:799 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:643 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (1cec25342fee5e9cd126d6a61228ca67)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:976 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:606 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (f2c775065145eebaa1c3d9e4843cb81b)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:688 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:467 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (b93b7a3c7a4ae3dbd5187d02e49669c4)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:767 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : yGIshena@gmail.com to email address field
+2022-05-15 21:05:868 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (b93b7a3c7a4ae3dbd5187d02e49669c4)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 21:05:919 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 21:05:391 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 21:05:461 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 21:05:525 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 21:05:602 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 21:05:676 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 21:05:963 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 21:05:37 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 21:05:79 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 21:05:152 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 21:05:230 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (b93b7a3c7a4ae3dbd5187d02e49669c4)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 21:05:931 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (b93b7a3c7a4ae3dbd5187d02e49669c4)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:882 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:752 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (0b8af201fc787099f5fd56a8cdd41842)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:963 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (0b8af201fc787099f5fd56a8cdd41842)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:676 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:934 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (ec32c23dd1ae6ca4b0747f742aa605c1)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:128 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login : to email address field
+2022-05-15 21:05:190 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:274 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (ec32c23dd1ae6ca4b0747f742aa605c1)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:787 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (ec32c23dd1ae6ca4b0747f742aa605c1)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:494 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:49 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (9d9b8588a048e9c71cb1bccbce685b3a)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:669 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 21:05:745 INFO  SignInPage :62 - enter the 'PASSWORD' for login : to password address field
+2022-05-15 21:05:807 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (9d9b8588a048e9c71cb1bccbce685b3a)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:505 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (9d9b8588a048e9c71cb1bccbce685b3a)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:199 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:920 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (ba98f7ff5fc8fc61b9147c4f4f9eff66)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:537 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :adfdfgfg to email address field
+2022-05-15 21:05:608 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:680 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (ba98f7ff5fc8fc61b9147c4f4f9eff66)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:979 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (ba98f7ff5fc8fc61b9147c4f4f9eff66)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:648 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:186 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (76dea6ed50f88c84188ce7593fc77f0c)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:828 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 21:05:896 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:971 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (76dea6ed50f88c84188ce7593fc77f0c)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:494 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (76dea6ed50f88c84188ce7593fc77f0c)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:194 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:173 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7063f0af9554539893137ce056474f68)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:250 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 21:05:313 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:385 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (7063f0af9554539893137ce056474f68)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:146 INFO  SignInPage :98 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7063f0af9554539893137ce056474f68)] -> xpath: //div[@class="header_user_info"]//a[contains(text(),'Sign out')]]
+2022-05-15 21:05:858 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:594 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (5ef27c906215874b833058ce0f447669)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:51 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 21:05:120 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:185 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (5ef27c906215874b833058ce0f447669)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:652 INFO  HomePage :49 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (5ef27c906215874b833058ce0f447669)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:357 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:680 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (6506f4eba838b9d48934f15f03a592b2)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:353 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 21:05:912 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 21:05:04 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 21:05:108 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 21:05:174 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (6506f4eba838b9d48934f15f03a592b2)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:227 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (6506f4eba838b9d48934f15f03a592b2)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:164 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:784 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (19183a83da94427bee0c257049cdccd1)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:628 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 21:05:304 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 21:05:477 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 21:05:580 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 21:05:643 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (19183a83da94427bee0c257049cdccd1)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:701 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (19183a83da94427bee0c257049cdccd1)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:718 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (19183a83da94427bee0c257049cdccd1)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:456 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:447 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (26160204bf3fc7174f2e056874aca28d)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:127 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 21:05:370 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 21:05:458 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 21:05:513 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 21:05:587 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (26160204bf3fc7174f2e056874aca28d)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:649 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (26160204bf3fc7174f2e056874aca28d)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:665 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (26160204bf3fc7174f2e056874aca28d)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:397 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:651 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (7020ad3910dc4ac72530af4f271b257b)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:995 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 21:05:87 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:493 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7a72f2e76cd1cd263458def5772dcf7c)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:729 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : c1yshena@gmail.com to email address field
+2022-05-15 21:05:820 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (7a72f2e76cd1cd263458def5772dcf7c)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 21:05:865 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 21:05:144 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 21:05:207 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 21:05:270 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 21:05:336 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 21:05:414 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 21:05:757 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 21:05:825 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 21:05:867 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 21:05:938 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 21:05:12 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (7a72f2e76cd1cd263458def5772dcf7c)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 21:05:252 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (7a72f2e76cd1cd263458def5772dcf7c)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:220 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:506 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (a486ce96a958c6c82ecb524cb3247e4b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:722 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (a486ce96a958c6c82ecb524cb3247e4b)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:427 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:992 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (c27c99c07bee8f5d9a13116d1187349e)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:655 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login : to email address field
+2022-05-15 21:05:711 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:791 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (c27c99c07bee8f5d9a13116d1187349e)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:65 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (c27c99c07bee8f5d9a13116d1187349e)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:740 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:264 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (e3db27b3df01731930626ff17c9ec265)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:356 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 21:05:429 INFO  SignInPage :62 - enter the 'PASSWORD' for login : to password address field
+2022-05-15 21:05:497 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (e3db27b3df01731930626ff17c9ec265)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:193 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (e3db27b3df01731930626ff17c9ec265)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:876 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:391 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (5d67ad5b84c4c2db06219fb1366e9728)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:586 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :adfdfgfg to email address field
+2022-05-15 21:05:651 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:727 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (5d67ad5b84c4c2db06219fb1366e9728)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:428 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (5d67ad5b84c4c2db06219fb1366e9728)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:147 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:547 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (966fde55d09070e86e6ec43fbb1e5cdc)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:316 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 21:05:385 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:462 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (966fde55d09070e86e6ec43fbb1e5cdc)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:700 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (966fde55d09070e86e6ec43fbb1e5cdc)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 21:05:390 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:561 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (9f5c76fcafb2a8e0ee0e4f93eb692515)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:484 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 21:05:555 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:625 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (9f5c76fcafb2a8e0ee0e4f93eb692515)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:318 INFO  SignInPage :98 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (9f5c76fcafb2a8e0ee0e4f93eb692515)] -> xpath: //div[@class="header_user_info"]//a[contains(text(),'Sign out')]]
+2022-05-15 21:05:15 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:185 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (49e17a6c10557c324cbba1e2f09c0a8b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:663 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 21:05:735 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 21:05:801 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (49e17a6c10557c324cbba1e2f09c0a8b)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 21:05:118 INFO  HomePage :49 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (49e17a6c10557c324cbba1e2f09c0a8b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:816 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:558 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (f06ff6f515c8e9abc044add219d2dd64)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:338 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 21:05:459 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 21:05:557 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 21:05:665 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 21:05:730 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (f06ff6f515c8e9abc044add219d2dd64)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:795 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (f06ff6f515c8e9abc044add219d2dd64)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:811 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (f06ff6f515c8e9abc044add219d2dd64)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:552 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:990 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (5f9f3753c1ef776948989cd11edbf715)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:341 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 21:05:406 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 21:05:487 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 21:05:582 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 21:05:642 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (5f9f3753c1ef776948989cd11edbf715)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:740 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (5f9f3753c1ef776948989cd11edbf715)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:763 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (5f9f3753c1ef776948989cd11edbf715)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:468 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:196 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (83680a4601bde2b79590ec049d991736)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:956 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 21:05:61 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 21:05:140 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 21:05:191 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 21:05:289 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (83680a4601bde2b79590ec049d991736)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:353 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (83680a4601bde2b79590ec049d991736)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:384 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (83680a4601bde2b79590ec049d991736)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:130 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:447 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (bfdeefbb9acefbc5d941fa4fd5e8439c)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:925 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 21:05:69 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:874 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (aeb7fa92ac9018f8dbe80a6ba2a672a6)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:474 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : d8nshena@gmail.com to email address field
+2022-05-15 21:05:572 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (aeb7fa92ac9018f8dbe80a6ba2a672a6)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 21:05:618 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 21:05:962 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 21:05:30 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 21:05:91 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 21:05:168 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 21:05:255 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 21:05:543 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 21:05:600 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 21:05:641 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 21:05:714 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 21:05:800 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (aeb7fa92ac9018f8dbe80a6ba2a672a6)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 21:05:229 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (aeb7fa92ac9018f8dbe80a6ba2a672a6)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:565 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:258 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (ed631b49499d7a77d495c4f41a6ec025)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 21:05:456 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (ed631b49499d7a77d495c4f41a6ec025)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 21:05:168 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:115 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (14a059f5690af9c7635343b898142d57)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:502 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 21:05:917 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 21:05:998 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 21:05:111 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 21:05:178 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (14a059f5690af9c7635343b898142d57)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:230 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (14a059f5690af9c7635343b898142d57)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:261 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (14a059f5690af9c7635343b898142d57)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:09 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:731 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (830cb369c3269115c9c6cdd11268a527)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:114 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 21:05:153 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 21:05:230 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 21:05:337 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 21:05:396 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (830cb369c3269115c9c6cdd11268a527)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:470 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (830cb369c3269115c9c6cdd11268a527)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:377 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:473 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (cc7d34ce62ee5f27f7f277678bedc08f)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:955 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 21:05:801 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 21:05:886 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 21:05:940 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 21:05:28 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (cc7d34ce62ee5f27f7f277678bedc08f)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 21:05:96 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (cc7d34ce62ee5f27f7f277678bedc08f)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 21:05:127 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (cc7d34ce62ee5f27f7f277678bedc08f)] -> xpath: //span[@title='Close window']]
+2022-05-15 21:05:841 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 21:05:103 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (50eac86b069bd7488cd463b9123d9452)] -> xpath: //a[@title='Women']]
+2022-05-15 21:05:305 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:566 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:33 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (45ad053a151e0fad4ed04a5500bb595a)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:996 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : L5Dshena@gmail.com to email address field
+2022-05-15 22:05:90 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (45ad053a151e0fad4ed04a5500bb595a)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 22:05:134 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 22:05:457 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 22:05:528 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 22:05:588 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 22:05:656 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 22:05:715 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 22:05:68 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 22:05:136 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 22:05:177 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 22:05:252 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 22:05:322 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (45ad053a151e0fad4ed04a5500bb595a)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 22:05:912 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (45ad053a151e0fad4ed04a5500bb595a)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:853 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:106 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (f05afb5a41b3e60d7df354fe2d868f7a)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:401 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (f05afb5a41b3e60d7df354fe2d868f7a)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:98 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:536 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (8df76f23588216e3a5021586c6f404b8)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:60 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 22:05:210 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:301 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 22:05:424 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 22:05:487 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (8df76f23588216e3a5021586c6f404b8)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:558 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (8df76f23588216e3a5021586c6f404b8)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:440 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:45 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (bdbddc8d00a5b2bc333b087883ca856d)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:770 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 22:05:583 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 22:05:661 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 22:05:861 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 22:05:917 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (bdbddc8d00a5b2bc333b087883ca856d)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:991 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (bdbddc8d00a5b2bc333b087883ca856d)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:872 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:68 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (9dab962b425cc6c6caa13076315d070e)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:856 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 22:05:882 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 22:05:962 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 22:05:34 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 22:05:114 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (9dab962b425cc6c6caa13076315d070e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:171 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (9dab962b425cc6c6caa13076315d070e)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:203 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (9dab962b425cc6c6caa13076315d070e)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:921 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:234 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (e08480f494b87004bb87070dbc5da3c1)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:634 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:949 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:321 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (7ab1ea5739c8850dc828381cb4ade9d4)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:434 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : edEshena@gmail.com to email address field
+2022-05-15 22:05:528 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (7ab1ea5739c8850dc828381cb4ade9d4)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 22:05:571 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 22:05:891 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 22:05:955 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 22:05:17 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 22:05:99 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 22:05:186 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 22:05:464 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 22:05:526 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 22:05:571 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 22:05:646 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 22:05:719 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (7ab1ea5739c8850dc828381cb4ade9d4)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 22:05:704 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (7ab1ea5739c8850dc828381cb4ade9d4)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:640 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:496 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (f5a179029d69b4fad53d7314d27a56c1)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:317 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (f5a179029d69b4fad53d7314d27a56c1)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:33 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:237 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (283b3fd3426b3fca1fbe3da70dd9401e)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:154 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 22:05:981 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:67 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 22:05:175 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 22:05:243 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (283b3fd3426b3fca1fbe3da70dd9401e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:300 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (283b3fd3426b3fca1fbe3da70dd9401e)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:329 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (283b3fd3426b3fca1fbe3da70dd9401e)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:61 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:548 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (f92951060a871ab2883f2946d3a5d61e)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:395 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 22:05:325 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 22:05:411 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 22:05:508 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 22:05:571 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (f92951060a871ab2883f2946d3a5d61e)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:626 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (f92951060a871ab2883f2946d3a5d61e)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:660 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (f92951060a871ab2883f2946d3a5d61e)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:391 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:143 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (51ac007fafa6f13908d09a611c05f23a)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:543 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 22:05:193 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 22:05:283 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 22:05:328 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 22:05:413 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (51ac007fafa6f13908d09a611c05f23a)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:469 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (51ac007fafa6f13908d09a611c05f23a)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:484 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (51ac007fafa6f13908d09a611c05f23a)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:227 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:381 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (98d163c436c2d933b6c7beb640817e85)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:961 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:679 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:352 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (2018989701a7b836fff2012605957065)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:945 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : 0ghshena@gmail.com to email address field
+2022-05-15 22:05:46 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (2018989701a7b836fff2012605957065)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 22:05:90 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 22:05:64 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 22:05:130 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 22:05:199 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 22:05:268 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 22:05:331 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 22:05:675 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 22:05:747 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 22:05:786 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 22:05:852 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 22:05:931 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (2018989701a7b836fff2012605957065)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 22:05:372 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (2018989701a7b836fff2012605957065)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:282 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:599 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (a61debaa1501808a168f61f680b0ee3e)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:77 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (a61debaa1501808a168f61f680b0ee3e)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:792 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:361 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (bad76604f6268190dda232965be72bd0)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:500 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 22:05:793 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:869 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 22:05:990 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 22:05:53 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (bad76604f6268190dda232965be72bd0)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:122 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (bad76604f6268190dda232965be72bd0)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:152 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (bad76604f6268190dda232965be72bd0)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:199 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:82 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (8e69394fe4fd6aa9d08689cce4d221c2)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:52 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 22:05:722 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 22:05:805 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 22:05:908 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 22:05:968 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (8e69394fe4fd6aa9d08689cce4d221c2)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:25 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (8e69394fe4fd6aa9d08689cce4d221c2)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:56 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (8e69394fe4fd6aa9d08689cce4d221c2)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:793 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:21 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (f4e0a77ac6743773f613e4c489252e27)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:696 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 22:05:782 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 22:05:879 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 22:05:942 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 22:05:23 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (f4e0a77ac6743773f613e4c489252e27)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:79 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (f4e0a77ac6743773f613e4c489252e27)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:106 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (f4e0a77ac6743773f613e4c489252e27)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:830 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:76 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (991f47f75ffc7ecb399783d275dfb686)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:240 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:96 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:628 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (43e8e6c447da07b9e69dc52048468f8b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:575 INFO  SignInPage :47 - enter the 'EMAIL ADDRESS' field for 'CREATE ACCOUNT' : zIushena@gmail.com to email address field
+2022-05-15 22:05:678 INFO  SignInPage :52 - clicking On 'CREATE ACCOUNT' button : [[ChromeDriver: chrome on WINDOWS (43e8e6c447da07b9e69dc52048468f8b)] -> xpath: //span[normalize-space()='Create an account']]
+2022-05-15 22:05:722 INFO  CreateAccountPage :61 - enter the 'FIRST NAME' : johnen to first name field
+2022-05-15 22:05:86 INFO  CreateAccountPage :65 - enter the 'LAST NAME' : sena to last name field
+2022-05-15 22:05:164 INFO  CreateAccountPage :69 - enter the 'PASSWORD' : 1234567 to password field
+2022-05-15 22:05:230 INFO  CreateAccountPage :74 - enter the 'ADDRESS' : johnen road to address field
+2022-05-15 22:05:307 INFO  CreateAccountPage :78 - enter the 'CITY' : london to city field
+2022-05-15 22:05:372 INFO  CreateAccountPage :83 - select 'STATE' from drop down : Hawaii
+2022-05-15 22:05:654 INFO  CreateAccountPage :87 - enter the 'ZIP CODE' : 12345 to zipcode field
+2022-05-15 22:05:717 INFO  CreateAccountPage :92 - select 'COUNTRY' from drop down : United States
+2022-05-15 22:05:765 INFO  CreateAccountPage :96 - select 'MOBILE NUMBER' from drop down : 1234567890
+2022-05-15 22:05:839 INFO  CreateAccountPage :100 - enter the 'ALIAS ADDRESS' : My address to zipcode field
+2022-05-15 22:05:916 INFO  CreateAccountPage :104 - click on 'REGISTRATION' button : [[ChromeDriver: chrome on WINDOWS (43e8e6c447da07b9e69dc52048468f8b)] -> xpath: //span[normalize-space()='Register']]
+2022-05-15 22:05:742 INFO  CreateAccountPage :109 - get the text of 'MY ACCOUNT' link : [[ChromeDriver: chrome on WINDOWS (43e8e6c447da07b9e69dc52048468f8b)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:686 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:661 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (220e5269c3758306ee33c88ae6d0231b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:891 INFO  SignInPage :67 - get the text of 'AUTHENTICATION' : [[ChromeDriver: chrome on WINDOWS (220e5269c3758306ee33c88ae6d0231b)] -> xpath: //h1[@class='page-heading']]
+2022-05-15 22:05:599 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:176 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (067c0a950e091661a5621a17b163e795)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:386 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login : to email address field
+2022-05-15 22:05:441 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 22:05:520 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (067c0a950e091661a5621a17b163e795)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:887 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (067c0a950e091661a5621a17b163e795)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 22:05:578 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:544 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (8ee37e7177451cd33add86be8d6bcd19)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:442 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 22:05:515 INFO  SignInPage :62 - enter the 'PASSWORD' for login : to password address field
+2022-05-15 22:05:589 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (8ee37e7177451cd33add86be8d6bcd19)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:299 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (8ee37e7177451cd33add86be8d6bcd19)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 22:05:15 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:797 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (f2454998d18878306ce54bba7a5519ad)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:211 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :adfdfgfg to email address field
+2022-05-15 22:05:281 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 22:05:352 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (f2454998d18878306ce54bba7a5519ad)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:987 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (f2454998d18878306ce54bba7a5519ad)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 22:05:704 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:458 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (819a7fa738827bab9c1b28b4f184b32b)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:915 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :abcd@gmail.com to email address field
+2022-05-15 22:05:985 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 22:05:55 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (819a7fa738827bab9c1b28b4f184b32b)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:999 INFO  SignInPage :82 - get the text of 'ERROR MESSAGE' : [[ChromeDriver: chrome on WINDOWS (819a7fa738827bab9c1b28b4f184b32b)] -> xpath: //div[@class="alert alert-danger"]/descendant::li]
+2022-05-15 22:05:695 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:920 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (6d8ae8ea9e2c00bf0bec110cffe772d4)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:932 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 22:05:08 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 22:05:83 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (6d8ae8ea9e2c00bf0bec110cffe772d4)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:393 INFO  SignInPage :98 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (6d8ae8ea9e2c00bf0bec110cffe772d4)] -> xpath: //div[@class="header_user_info"]//a[contains(text(),'Sign out')]]
+2022-05-15 22:05:113 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:479 INFO  HomePage :45 - clicking On 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (b6b4a2f0142a400f23943f08ce1c80c8)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:885 INFO  SignInPage :57 - enter the 'EMAIL ADDRESS' for login :john222@gmail.com to email address field
+2022-05-15 22:05:964 INFO  SignInPage :62 - enter the 'PASSWORD' for login :123456 to password address field
+2022-05-15 22:05:28 INFO  SignInPage :77 - clicking On 'SIGNIN' button : [[ChromeDriver: chrome on WINDOWS (b6b4a2f0142a400f23943f08ce1c80c8)] -> xpath: //span[normalize-space()='Sign in']]
+2022-05-15 22:05:121 INFO  HomePage :49 - get the text of 'SIGNIN' link : [[ChromeDriver: chrome on WINDOWS (b6b4a2f0142a400f23943f08ce1c80c8)] -> xpath: //a[@title='Log in to your customer account']]
+2022-05-15 22:05:824 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:162 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (990456a91cfaf654a6e402cd9d43e9c2)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:862 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Blouse
+2022-05-15 22:05:616 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
+2022-05-15 22:05:710 INFO  ProductPage :47 - select 'SIZE' from drop down : M
+2022-05-15 22:05:818 INFO  ProductPage :54 - select 'COLOUR' : White
+2022-05-15 22:05:888 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (990456a91cfaf654a6e402cd9d43e9c2)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:951 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (990456a91cfaf654a6e402cd9d43e9c2)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:980 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (990456a91cfaf654a6e402cd9d43e9c2)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:499 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:989 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (91ae8cec72bca30fe4b853c87e097b9c)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:758 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Dress
+2022-05-15 22:05:16 INFO  ProductPage :40 - enter the 'QUANTITY' : 3
+2022-05-15 22:05:101 INFO  ProductPage :47 - select 'SIZE' from drop down : L
+2022-05-15 22:05:199 INFO  ProductPage :54 - select 'COLOUR' : Orange
+2022-05-15 22:05:264 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (91ae8cec72bca30fe4b853c87e097b9c)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:324 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (91ae8cec72bca30fe4b853c87e097b9c)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:351 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (91ae8cec72bca30fe4b853c87e097b9c)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:244 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:526 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (e23e2ed60720fdbf625d6e1f735d013b)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:237 INFO  WomenCategoryPage :54 - click on 'PRODUCT' : Printed Chiffon Dress
+2022-05-15 22:05:888 INFO  ProductPage :40 - enter the 'QUANTITY' : 4
+2022-05-15 22:05:977 INFO  ProductPage :47 - select 'SIZE' from drop down : S
+2022-05-15 22:05:38 INFO  ProductPage :54 - select 'COLOUR' : Green
+2022-05-15 22:05:109 INFO  ProductPage :62 - click on 'ADD TO CART' button : [[ChromeDriver: chrome on WINDOWS (e23e2ed60720fdbf625d6e1f735d013b)] -> xpath: //span[normalize-space()='Add to cart']]
+2022-05-15 22:05:175 INFO  ProductPage :68 - get the text of 'ADD TO CART' text : [[ChromeDriver: chrome on WINDOWS (e23e2ed60720fdbf625d6e1f735d013b)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2022-05-15 22:05:204 INFO  ProductPage :73 - click on 'CLOSE WINDOW' button : [[ChromeDriver: chrome on WINDOWS (e23e2ed60720fdbf625d6e1f735d013b)] -> xpath: //span[@title='Close window']]
+2022-05-15 22:05:956 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 22:05:670 INFO  HomePage :33 - clicking On 'WOMEN' link tab : [[ChromeDriver: chrome on WINDOWS (261765efc8133a5e2c3524576570a649)] -> xpath: //a[@title='Women']]
+2022-05-15 22:05:255 INFO  ProductPage :40 - enter the 'QUANTITY' : 2
